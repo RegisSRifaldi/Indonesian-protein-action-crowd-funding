@@ -81,7 +81,7 @@ const CreateCampaign = () => {
           handleChange={(e) => handleFormFieldChange("description", e)}
         />
 
-        <div className="w-full flex justify-start items-center p-4 bg-[#8c6daa] h-[120px] rounded-[10px]">
+        <div className="w-full flex justify-start items-center p-4 bg-[#ff7878] h-[120px] rounded-[10px]">
           <img
             src={money}
             alt="money"
@@ -95,7 +95,7 @@ const CreateCampaign = () => {
         <div className="flex flex-wrap gap-[40px]">
           <FormField
             labelName="Goal *"
-            placeholder="ETH 0.50"
+            placeholder="BSC 0.50"
             inputType="text"
             value={form.target}
             handleChange={(e) => handleFormFieldChange("target", e)}
