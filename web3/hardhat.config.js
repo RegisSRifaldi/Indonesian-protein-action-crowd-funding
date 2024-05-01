@@ -33,12 +33,13 @@ module.exports = {
   },
   solidity: {
     version: "0.8.17",
-    defaultNetwork: "sepolia",
+    defaultNetwork: "bsc",
     networks: {
       hardhat: {},
-      sepolia: {
-        url: "https://rpc.ankr.com/eth_sepolia",
+      bscTestnet: {
+        url: "https://bsc-testnet.publicnode.com",
         accounts: [`0x${process.env.PRIVATE_KEY}`],
+        chainId: 97,
       },
     },
     settings: {
