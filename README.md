@@ -8,7 +8,7 @@
    Decentralized Crowfunding | Indonesian Protein Action
    <br/> 
    <br/>
-   <a href="https://indonesianproteinaction.netlify.app/">View Demo</a> 
+   <a href="https://indonesianproteinaction.netlify.app/" target="_blank">View Demo</a> 
    </p>
 </p>
 
