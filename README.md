@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/RegisSRifaldi/Indonesian-protein-action-crowd-funding"> 
-    <img src="https://postimg.cc/0K51ynBs" alt="Logo" width="300" height="300">
+    <img src="https://github.com/RegisSRifaldi/Indonesian-protein-action-crowd-funding/blob/main/Aksi_protein.jpg?raw=true" alt="Logo" width="300" height="300">
     </a>
 
    <p align="center">
@@ -28,7 +28,7 @@
 
 ## About The Project
 
-![Screen Shoot](https://postimg.cc/0K51ynBs)
+![Screen Shoot](https://github.com/RegisSRifaldi/Indonesian-protein-action-crowd-funding/blob/main/crowdfunding_indonesianproteinaction.PNG?raw=true)
 The Indonesian protein action crowdfunding project aims to encourage and provide incentives to people who contribute to humanity.
 
 ## Built With
