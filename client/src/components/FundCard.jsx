@@ -14,6 +14,9 @@ const FundCard = ({
   handleClick,
 }) => {
   const remainingDays = daysLeft(deadline);
+  if (remainingDays <= 0) {
+    return null;
+  }
   return (
     <div
       className="sm:w-[288px] w-full h-full rounded-[15px] bg-[#1c1c24] cursor-pointer"
@@ -27,7 +30,7 @@ const FundCard = ({
             className="w-[17px] h-[17px] object-contain"
           />
           <p className="ml-[12px] font-epilogue font-medium text-[12px] text-[#808191]">
-            Education
+            Humanitarian Aid
           </p>
         </div>
 
